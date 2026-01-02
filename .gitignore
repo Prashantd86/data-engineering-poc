@@ -1,0 +1,19 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.crash.log
+terraform.tfvars
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Lambda build artifacts
+lambda_package/
+lambda_upload.zip
+
+# OS / Editor
+.DS_Store
+.vscode/

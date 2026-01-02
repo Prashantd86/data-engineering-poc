@@ -1,0 +1,9 @@
+{
+  "source": "demo_api",
+  "entity": "posts",
+  "extract_dt": "2026-01-01",
+  "run_id": "0093b8f5-ebd2-40c7-853c-3684ded3288d",
+  "record_count": 100,
+  "status": "SUCCESS",
+  "created_utc": "2026-01-01T04:54:41.363345+00:00"
+}
